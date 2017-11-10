@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAMES</Machine>
+    <WindowsUser>James Rigby</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>060e724b-39b2-44bf-8df5-927bf914f384</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>92FEB77F4993036EE350644AE99CD39042B1C316BC62A5F587B6471DFD452A20</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>060e724b-39b2-44bf-8df5-927bf914f384_1.0.0.0_x86__w7mxzscebfmq4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>060e724b-39b2-44bf-8df5-927bf914f384_w7mxzscebfmq4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>060e724b-39b2-44bf-8df5-927bf914f384</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jonathan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Debug\Platformer\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-22T21:35:04.629</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Debug\Platformer\Platformer.exe">
+      <PackagePath>Platformer.exe</PackagePath>
+      <Modified>2016-04-22T21:34:58.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Debug\Platformer\Platformer.winmd">
+      <PackagePath>Platformer.winmd</PackagePath>
+      <Modified>2016-03-04T15:19:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\Background.png">
+      <PackagePath>Assets\Background.png</PackagePath>
+      <Modified>2016-04-07T14:35:16.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\Pit.png">
+      <PackagePath>Assets\Pit.png</PackagePath>
+      <Modified>2016-04-07T14:29:19.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\PlayerIdleStance.png">
+      <PackagePath>Assets\PlayerIdleStance.png</PackagePath>
+      <Modified>2012-02-20T09:38:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\PlayerWalkSide.png">
+      <PackagePath>Assets\PlayerWalkSide.png</PackagePath>
+      <Modified>2012-02-20T09:38:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\Street.png">
+      <PackagePath>Assets\Street.png</PackagePath>
+      <Modified>2016-04-07T14:28:28.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\TileEmpty.png">
+      <PackagePath>Assets\TileEmpty.png</PackagePath>
+      <Modified>2012-02-20T08:38:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\TrollWalkSide.png">
+      <PackagePath>Assets\TrollWalkSide.png</PackagePath>
+      <Modified>2012-02-20T09:38:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\italic.spritefont">
+      <PackagePath>Assets\italic.spritefont</PackagePath>
+      <Modified>2013-07-01T15:41:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Platformer\Assets\LevelOne.csv">
+      <PackagePath>Assets\LevelOne.csv</PackagePath>
+      <Modified>2016-04-22T20:57:28.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James Rigby\Desktop\Platformer Improved\Platformer\Debug\Platformer\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-22T21:35:03.701</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
