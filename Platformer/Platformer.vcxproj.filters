@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>a45c991d-b90d-43ad-852f-2d671ffe67a7</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>d02a64e8-151f-4ffb-bc2d-b339dd389964</UniqueIdentifier>
+      <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
+    </Filter>
+    <Filter Include="Content">
+      <UniqueIdentifier>d411c16b-7acc-41c9-afac-a84f5918c4ca</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="Common\DirectXHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\StepTimer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\DeviceResources.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClCompile Include="Common\DeviceResources.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <Image Include="Assets\Logo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SmallLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp" />
+    <ClCompile Include="PlatformerMain.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Common\GameController.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\SpriteResources.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\Gameboard.cpp">
+      <Filter>Content</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\Tile.cpp">
+      <Filter>Content</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\Player.cpp">
+      <Filter>Content</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\CollisionBox.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\Troll.cpp">
+      <Filter>Content</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\TextWriter.cpp">
+      <Filter>Content</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.h" />
+    <ClInclude Include="PlatformerMain.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Common\GameController.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\SpriteResources.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\Gameboard.h">
+      <Filter>Content</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\Tile.h">
+      <Filter>Content</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\Player.h">
+      <Filter>Content</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\CollisionBox.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\Troll.h">
+      <Filter>Content</Filter>
+    </ClInclude>
+    <ClInclude Include="States.h" />
+    <ClInclude Include="Content\TextWriter.h">
+      <Filter>Content</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Platformer_TemporaryKey.pfx" />
+    <None Include="Assets\LevelOne.csv">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\italic.spritefont">
+      <Filter>Assets</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\PlayerIdleStance.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\PlayerWalkSide.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\TileEmpty.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\TrollWalkSide.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Pit.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Street.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Background.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
